@@ -1,6 +1,6 @@
 # Pomodoro_challenge
 
 <p float="left">
-<img src = "https://user-images.githubusercontent.com/122064545/de604317-ac0d-411d-93cd-87326b34ab45.png" width = "300" height = "650">
-<img src = "https://user-images.githubusercontent.com/122064545/57c6448d-3a63-4696-a36f-dc1a5b7e7286.png" width = "300" height = "650">
+<img src = "https://github.com/KimmyDat/Pomodoro_challenge/assets/122064545/7bb301e6-eb46-466a-9574-c8faf83fc0d5.png" width = "300" height = "650">
+<img src = "https://github.com/KimmyDat/Pomodoro_challenge/assets/122064545/cf0adcef-2755-436c-a438-ec4da3500f88.png" width = "300" height = "650">
 </p>
